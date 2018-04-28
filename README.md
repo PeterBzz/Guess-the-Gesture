@@ -1,8 +1,8 @@
 # Guess-the-Gesture
 
-  Test project for Murka
+	Test project for Murka
 
-  You can:
+	You can:
 Open with Unity3D 2017
 Add/remove gesture tasks in LayerGame/GestureContainer
 Modify any of them with Gesture Task (Script)/Gesture Vertices
